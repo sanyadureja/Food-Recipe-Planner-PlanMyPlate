@@ -1,5 +1,6 @@
-# Food-Recipe-Planner-PlanMyPlate
+## Food-Recipe-Planner-PlanMyPlate
 Frontend: HTML, CSS, and JavaScript. 
+
 Backend: Database created using API.
 
 Visit the site at: https://sanyadureja.github.io/Food-Recipe-Planner-PlanMyPlate/ 
