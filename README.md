@@ -5,7 +5,7 @@ Backend: Database created using Edamam API (Nutrition Food API).
 
 Visit the site at: https://sanyadureja.github.io/Food-Recipe-Planner-PlanMyPlate/ 
 
-Contributor: Chittesh Kumar Singore
+Contributor: [Chittesh Kumar Singore](https://github.com/ChitteshKumar)
 
 ## Walkthrough
 
