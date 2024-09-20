@@ -1,7 +1,7 @@
 ## Food-Recipe-Planner-PlanMyPlate
 Frontend: HTML, CSS, and JavaScript. 
 
-Backend: Database created using API.
+Backend: Database created using Edamam API (Nutrition Food API).
 
 Visit the site at: https://sanyadureja.github.io/Food-Recipe-Planner-PlanMyPlate/ 
 
